@@ -22,10 +22,6 @@
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行XRAY，不熟悉XRAY配置的请勿修改",
             "value": "https://raw.githubusercontent.com/shyperwang/heroku-xray/main/etc/self.json"
-        },
-        "StoreFiles": {
-            "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/shyperwang/heroku-xray/main/etc/StoreFiles"
         }
     },
     "website": "https://github.com/shyperwang/heroku-xray",
