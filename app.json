@@ -12,7 +12,7 @@
             "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/shypewang/proxy_hero/blob/main/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/shypewang/heroku-xray/blob/main/etc/CADDYIndexPage.md",
             "value": "https://raw.githubusercontent.com/shyperwang/heroku-xray/main/html/index.html"
         },
         "CONFIGCADDY": {
